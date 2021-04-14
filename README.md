@@ -8,10 +8,10 @@
 Robot-dev11/Robot-dev11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p> Hi there, I'm doing Computer Science and Engineering, passionate about coding , pentesting web application and network.
+Hi there, I'm doing Computer Science and Engineering, passionate about coding , pentesting web application and network.
 Also, a Cyber Security enthusiast with basic knowledge of Web application and Network pentesting. Love working with VAPT Assessment and Bug Bounty. 
-Open to Cyber Security Internship and full time Cyber Security Jobs for 2021. In my spare time, I like to watch anime and exploring new places.</p> 
+Open to Cyber Security Internship and full time Cyber Security Jobs for 2021. In my spare time, I like to watch anime and exploring new places. 
 
-<script src="https://tryhackme.com/badge/286605"></script>
 TryHackme Profile:- https://tryhackme.com/p/robotdev11
+This is my TryHackme profile feel free to visit
 
