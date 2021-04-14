@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robot-dev11.
 - 👀 I’m interested in CyberSecurity.
-- 🌱 I’m currently Final Year Computer Science Engineering Student.
+- 🌱 I’m currently in Final Year Computer Science Engineering Student.
 - 💞️ I’m looking to collaborate on tools which are using for pentesting purpose.
 - 📫 You can reach me on LinkedIn :- https://www.linkedin.com/in/giriraj-soni-4b86b016a
 
