@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robot-dev11.
 - 👀 I’m interested in CyberSecurity and Web Development
-- 🌱 I’m currently in Final Year Computer Science Engineering Student.
+- 🌱 I’m currently working as a Software Engineer in Exela Technologies.
 - 💞️ I’m looking to collaborate on web development and do some good projects to showcase my skills and enthusiasm.
 - 📫 You can reach me on LinkedIn :- https://www.linkedin.com/in/giriraj-soni-4b86b016a
 
